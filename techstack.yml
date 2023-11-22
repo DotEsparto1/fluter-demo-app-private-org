@@ -1,11 +1,11 @@
 repo_name: DotEsparto1/fluter-demo-app-private-org
-report_id: aa572f8d9565e312176c4bc55afb41c6
+report_id: 59d0a5d776d2819728de01503a548135
 repo_type: Public
-timestamp: '2023-11-10T17:04:49+00:00'
+timestamp: '2023-11-22T15:08:21+00:00'
 requested_by: are-pubnub
 provider: github
 branch: master
-detected_tools_count: 20
+detected_tools_count: 19
 tools:
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -55,16 +55,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
-  detection_source: Repo Metadata
-- name: Shell
-  description: A shell is a text-based terminal, used for manipulating programs and
-    files. Shell scripts typically manage program execution.
-  website_url: https://en.wikipedia.org/wiki/Shell_script
-  open_source: false
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
