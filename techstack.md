@@ -219,7 +219,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@types/node](https://www.npmjs.com/@types/node)|v13.13.2|04/23/20|Artur Wojciechowski |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v13.13.2|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
