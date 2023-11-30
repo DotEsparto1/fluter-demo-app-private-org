@@ -1,7 +1,7 @@
 repo_name: DotEsparto1/fluter-demo-app-private-org
-report_id: 981d5de2ff7fcd61312a4dfdce7af059
+report_id: 5d41d986532c9eb5b8cda09af3c80d5d
 repo_type: Public
-timestamp: '2023-11-24T18:02:32+00:00'
+timestamp: '2023-11-30T11:11:09+00:00'
 requested_by: are-pubnub
 provider: github
 branch: master
@@ -86,7 +86,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: android/app/build.gradle
+  detection_source_url: github.com/DotEsparto1/fluter-demo-app-private-org/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
 - name: Flutter
   description: Cross-platform mobile framework from Google
@@ -97,7 +97,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
-  detection_source: pubspec.yaml
+  detection_source: ios/Podfile
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -164,7 +164,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: android/app/build.gradle
+  detection_source_url: github.com/DotEsparto1/fluter-demo-app-private-org/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
 - name: CocoaPods
   description: A dependency manager for Swift and Objective-C Cocoa projects
@@ -182,7 +182,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/empty-logo-square.png
-  detection_source_url: pubspec.lock
+  detection_source_url: github.com/DotEsparto1/fluter-demo-app-private-org/blob/master/pubspec.lock
   detection_source: pubspec.yaml
 - name: "@types/node"
   description: TypeScript definitions for Node.js
@@ -194,5 +194,5 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: functions/package-lock.json
+  detection_source_url: github.com/DotEsparto1/fluter-demo-app-private-org/blob/master/functions/package-lock.json
   detection_source: functions/package.json
